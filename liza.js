@@ -16,3 +16,10 @@ let k=9;
 let mesatarja(x+y+l+z+k)/5;
 
 document.write("Mesatarja e numrave eshte"+mesatarja);
+
+
+int temperaturaCelsius=24;
+
+let temperaturaFahrenheit=(temperaturaCelsius *9/5)+32;
+
+window.alert("Temperatura ne Fahrenheit"+temperaturaFahrenheit);
